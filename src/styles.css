@@ -1,3 +1,15 @@
+.card-body {
+  padding: 30px !important;
+  border: #fff !important;
+}
+
+.app {
+  background-color: #ffffff !important;
+  margin: 30px auto;
+  max-width: 700px !important;
+  border: #fff !important;
+}
+
 a {
   text-decoration: none !important;
   color: #fff !important;
@@ -9,8 +21,7 @@ button {
   padding: 15px 5px !important;
   margin: 10px 20px !important;
   min-width: 180px !important;
-  background-color: #fffacd;
-  border: 1px solid #fffacd;
+
   border-radius: 20px !important;
 }
 
@@ -34,4 +45,51 @@ h2 {
 
 .sage-col {
   text-align: center;
+}
+
+.procore-projects {
+  background-color: #a2fb8e;
+  border: 1px solid #a2fb8e;
+}
+.procore-companies {
+  background-color: #a2fb8e;
+  border: 1px solid #a2fb8e;
+}
+
+.procore-cost-codes {
+  background-color: #fc2a2a;
+  border: 1px solid #fc2a2a;
+}
+
+.procore-cost-types {
+  background-color: #a2fb8e;
+  border: 1px solid #a2fb8e;
+}
+
+.procore-purchase-orders {
+  background-color: #a2fb8e;
+  border: 1px solid #a2fb8e;
+}
+
+.procore-orders {
+  background-color: #a2fb8e;
+  border: 1px solid #a2fb8e;
+}
+
+.sage-projects {
+  background-color: #a2fb8e !important;
+  border: 1px solid #a2fb8e;
+}
+.sage-customers {
+  background-color: #a2fb8e;
+  border: 1px solid #a2fb8e;
+}
+.sage-project-cost-codes {
+  background-color: #a2fb8e;
+  border: 1px solid #a2fb8e;
+}
+
+.sage-purchase-orders {
+  background-color: #a2fb8e;
+  border: 1px solid #a2fb8e;
 }
