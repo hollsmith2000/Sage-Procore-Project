@@ -48,50 +48,50 @@ h2 {
 }
 
 .procore-projects {
-  background-color: #a2fb8e;
-  border: 1px solid #a2fb8e;
+  background-color: #ff5100;
+  border: 1px solid #ff5100;
 }
 .procore-companies {
-  background-color: #a2fb8e;
-  border: 1px solid #a2fb8e;
+  background-color: #ff5100;
+  border: 1px solid #ff5100;
 }
 
 .procore-cost-codes {
-  background-color: #fc2a2a;
-  border: 1px solid #fc2a2a;
+  background-color: #ff5100;
+  border: 1px solid #ff5100;
 }
 
 .procore-cost-types {
-  background-color: #a2fb8e;
-  border: 1px solid #a2fb8e;
+  background-color: #ff5100;
+  border: 1px solid #ff5100;
 }
 
 .procore-purchase-orders {
-  background-color: #a2fb8e;
-  border: 1px solid #a2fb8e;
+  background-color: #ff5100;
+  border: 1px solid #ff5100;
 }
 
 .procore-orders {
-  background-color: #a2fb8e;
-  border: 1px solid #a2fb8e;
+  background-color: #ff5100;
+  border: 1px solid #ff5100;
 }
 
 .sage-projects {
-  background-color: #a2fb8e !important;
-  border: 1px solid #a2fb8e;
+  background-color: #5fbc42 !important;
+  border: 1px solid #5fbc42;
 }
 .sage-customers {
-  background-color: #a2fb8e;
-  border: 1px solid #a2fb8e;
+  background-color: #5fbc42;
+  border: 1px solid #5fbc42;
 }
 .sage-project-cost-codes {
-  background-color: #a2fb8e;
-  border: 1px solid #a2fb8e;
+  background-color: #5fbc42;
+  border: 1px solid #5fbc42;
 }
 
 .sage-purchase-orders {
-  background-color: #a2fb8e;
-  border: 1px solid #a2fb8e;
+  background-color: #5fbc42;
+  border: 1px solid #5fbc42;
 }
 
 .link {
